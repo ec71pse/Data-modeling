@@ -57,9 +57,7 @@
 - критерии успешного завершения;
 - бизнес-правила.
 
-<p align="center">
-  <img src="usecase-specifications-1.png" width="900">
-</p>
+![usecase-specifications-2](usecase-specifications-1.png)
 
 <p align="center">
   <img src="usecase-specifications-2.png" width="900">
