@@ -41,7 +41,9 @@
 
 Для описания функциональности системы и взаимодействия пользователей с системой была разработана UML-диаграмма вариантов использования.
 
-<img src="use-case-diagram.png">
+<p align="center">
+  <img src="use-case-diagram.PNG">
+</p>
 
 ---
 
@@ -56,19 +58,19 @@
 - бизнес-правила.
 
 <p align="center">
-  <img src="usecase-specifications-1.png">
+  <img src="usecase-specifications-1.PNG">
 </p>
 
 <p align="center">
-  <img src="usecase-specifications-2.png">
+  <img src="usecase-specifications-2.PNG">
 </p>
 
 <p align="center">
-  <img src="usecase-specifications-3.png">
+  <img src="usecase-specifications-3.PNG">
 </p>
 
 <p align="center">
-  <img src="usecase-specifications-4.png">
+  <img src="usecase-specifications-4.PNG">
 </p>
 
 ---
@@ -98,7 +100,7 @@
 - Товар в заказе.
 
 <p align="center">
-  <img src="crows-foot-diagram.png">
+  <img src="crows-foot-diagram.PNG">
 </p>
 
 ---
