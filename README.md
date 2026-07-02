@@ -42,7 +42,7 @@
 Для описания функциональности системы и взаимодействия пользователей с системой была разработана UML-диаграмма вариантов использования.
 
 <p align="center">
-  <img src="use-case-diagram.PNG">
+  <img src="images/use-case-diagram.PNG">
 </p>
 
 ---
@@ -58,19 +58,19 @@
 - бизнес-правила.
 
 <p align="center">
-  <img src="usecase-specifications-1.PNG">
+  <img src="images/usecase-specifications-1.PNG">
 </p>
 
 <p align="center">
-  <img src="usecase-specifications-2.PNG">
+  <img src="images/usecase-specifications-2.PNG">
 </p>
 
 <p align="center">
-  <img src="usecase-specifications-3.PNG">
+  <img src="images/usecase-specifications-3.PNG">
 </p>
 
 <p align="center">
-  <img src="usecase-specifications-4.PNG">
+  <img src="images/usecase-specifications-4.PNG">
 </p>
 
 ---
@@ -80,7 +80,7 @@
 На основе бизнес-требований была разработана концептуальная модель данных, отражающая основные сущности предметной области, их атрибуты и взаимосвязи.
 
 <p align="center">
-  <img src="chen-er-diagram.PNG">
+  <img src="images/chen-er-diagram.PNG">
 </p>
 
 ---
@@ -100,7 +100,7 @@
 - Товар в заказе.
 
 <p align="center">
-  <img src="crows-foot-diagram.PNG">
+  <img src="images/crows-foot-diagram.PNG">
 </p>
 
 ---
